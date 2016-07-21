@@ -1,0 +1,3 @@
+class CloudGate
+
+end
